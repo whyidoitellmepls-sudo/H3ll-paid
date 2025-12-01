@@ -1,6 +1,6 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/zerquesth/elerium-v2/refs/heads/main/POPASTALINA"))()
 
-local window = library:AddWindow("H3LL | PAID VERSION", {
+local window = library:AddWindow("KLAUS", {
     main_color = Color3.fromRGB(0, 0, 0),
     min_size = Vector2.new(550, 630),
     can_resize = false,
