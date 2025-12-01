@@ -1794,12 +1794,3 @@ task.spawn(function()
         task.wait(0.05)
     end
 end)
-
-local infoTab = window:AddTab("Info")
-infoTab:Show()
-infoTab:AddLabel("Made by Henne").TextSize = 20
-infoTab:AddLabel("Any Problems/Questions? -> imhenne187 on Discord").TextSize = 20
-infoTab:AddLabel("")
-local wLabel = infoTab:AddLabel("VERSION//1.1.0")
-wLabel.TextSize = 40
-wLabel.Font = Enum.Font.Arcade
